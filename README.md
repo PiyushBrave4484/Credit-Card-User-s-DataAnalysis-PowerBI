@@ -5,7 +5,7 @@
 This project focuses on analyzing **credit card usage and transaction data** to uncover customer spending behavior, revenue trends, and key performance insights. The entire pipeline was built from **data transformation to interactive dashboards**, followed by publishing and app creation on **Power BI Service**.
 
 ---
-
+[!Dashboard Sample](Dashboard.png)
 ## 🛠️ Project Workflow
 
 1. **Data Preparation & Transformation**
